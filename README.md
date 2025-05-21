@@ -39,6 +39,10 @@ This project aims to identify and score the risk of Personally Identifiable Info
 - [ ] Normalize PII detection results
   - Classify and score: emails, phones, ID numbers, etc.
 
+Poc kql
+
+min_webcontent: cpf and raw_webcontent: "name="cpf""
+
 ---
 
 ## 📊 PHASE 4: Scoring and Aggregation
